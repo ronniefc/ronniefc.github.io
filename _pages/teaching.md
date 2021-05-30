@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /reading/
-title: What I'm Reading
+permalink: /teaching/
+title: books + articles
 description: Check back here for book reviews, ratings, and suggestions, from my shelf to yours.
 nav: true
 ---
