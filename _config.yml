@@ -43,10 +43,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: @ronnie.fc # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: Ronnie Clevenstine # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -68,8 +68,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: internal monologue  # your blog must have a name for it to show up in the nav bar
-blog_description: thoughts, ideas, critiques
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: thoughts & ideas
 permalink: /blog/:year/:title/
 
 # Pagination
