@@ -6,7 +6,7 @@ description: Hey friends, my name is Ronnie. Welcome to my website!
 
 profile:
   align: right
-  image: profilepic.jpg
+  image: Profile.jpg
   address: >
     <p>Clemson, South Carolina</p>
 
