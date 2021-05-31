@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: here's what I'm working on
+title: blog
+permalink: /blog/
+description: thoughts & ideas
 nav: true
 display_categories: [work, fun]
 horizontal: false

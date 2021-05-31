@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ronnie
-middle_name: F.
+middle_name:
 last_name: Clevenstine
 email: vcleven@clemson.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -68,7 +68,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: thoughts & ideas
 permalink: /blog/:year/:title/
 
