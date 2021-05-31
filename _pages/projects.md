@@ -1,7 +1,7 @@
 ---
 layout: page
 title: blog
-permalink: /waffles/
+permalink: /blogs/
 description: thoughts & ideas
 nav: true
 display_categories: [work, fun]
