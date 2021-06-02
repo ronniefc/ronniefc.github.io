@@ -7,3 +7,6 @@ nav: true
 ---
 
 Check back here for updated book reviews soon.
+
+
+[A Promised Land, Barrack Obama](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160){:target="\_blank"}
